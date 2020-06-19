@@ -5,7 +5,7 @@ export default class extends Document {
     return (
       <Html>
         <Head>
-          <meta charset="utf-8" />
+          <meta charset="garbage" />
           <script
             dangerouslySetInnerHTML={{
               __html: "-".repeat(1024),
